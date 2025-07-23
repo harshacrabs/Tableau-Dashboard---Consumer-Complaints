@@ -26,3 +26,7 @@ Consumer Financial Protection Bureau (CFPB) complaint dataset
 ## 🌐 Live Dashboard
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raghuveer.harsha.vardhan.karrotu/viz/ConsumerComplaint_2021-22/Dashboard)
+
+<img width="775" height="590" alt="dashboard" src="https://github.com/user-attachments/assets/6780a856-33ef-4032-a86b-d035b99689e6" />
+
+
